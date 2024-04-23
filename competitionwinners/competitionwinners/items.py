@@ -7,6 +7,4 @@ import scrapy
 
 
 class CompetitionwinnersItem(scrapy.Item):
-    year = scrapy.Field()
-    graduate_track = scrapy.Field()
-    first_place = scrapy.Field()
+    pass
