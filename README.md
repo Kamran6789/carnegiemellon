@@ -21,5 +21,4 @@ A Python-based Scrapy spider to scrape past winner company details from the [CMU
 - datetime
 
 
-git clone https://github.com/your-username/mcginnis-scraper.git
-cd mcginnis-scraper
+
